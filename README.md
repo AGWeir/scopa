@@ -1,0 +1,2 @@
+# scopa
+Half finished project
